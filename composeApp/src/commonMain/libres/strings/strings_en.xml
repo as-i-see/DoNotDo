@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="timer_tab">Timer</string>
+    <string name="statistic_tab">Statistic</string>
+    <string name="timer_button_text">Start timer</string>
+    <string name="minutes_input_text">Minutes to wait</string>
+    <string name="can_smoke_image_url">https://cdn-icons-png.flaticon.com/512/6591/6591332.png</string>
+    <string name="cant_smoke_image_url">https://i.pinimg.com/originals/d2/6f/12/d26f1201bac90d6bae959cd1604bf925.png</string>
+    <string name="statistic_image_url">https://cdn-icons-png.flaticon.com/512/4778/4778417.png</string>
+</resources>
